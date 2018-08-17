@@ -2,3 +2,9 @@
 node_modules
 dist
 *.log
+obj/Debug/CallVuTask.njsproj.FileListAbsolute.txt
+src/server/test/
+src/server/test2/
+src/server/test3/
+CallVuTask.njsproj
+CallVuTask.sln
